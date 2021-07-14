@@ -5,7 +5,9 @@
 This program is a test using the processing frame work.
 
 
-this program takes in planet data in the form of a .csv file 
-and create a visualization of the planets orbit around the sun.
-the idea is to better conceptualize harder to grasp concepts.
+this program takes in data from the planets in our solar system in the form of a .csv file 
+and create a visualization of the planets orbiting around the sun.
+
+This is just an example that I quickly put together to see if I could spark some Ideas in Chel's for better learning based visualization 
+
 
